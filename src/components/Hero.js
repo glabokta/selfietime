@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../assets/logo.svg";
+import logo from "https://qdev.s3.amazonaws.com/303/A/471068303/A/c0d4abd6-4f7b-11e4-8a0b-123140053ab5-471068303/DemoBank-Logo.png";
 
 const Hero = () => (
   <div className="text-center hero my-5">
